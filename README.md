@@ -1,5 +1,5 @@
 # COMPOUND-Model
-**_tbd._**
+Whole-body PBPK model of isoniazide
 
 ## Repository files
 **_tbd._**
