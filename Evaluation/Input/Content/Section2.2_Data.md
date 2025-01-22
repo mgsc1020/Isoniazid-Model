@@ -71,5 +71,5 @@ The following publications were used for model building (training dataset) and m
 | 300 mg| po | INH, AcHz |FF, SS|Blood|verification|[Peretti 1987](#5-references) |
 | 300 mg| po | INH, DiAcHz |FF, SS|Blood|verification|[Lauterburg 1985](#5-references) |
 | 300 mg| po |  INH, AcINH, AzHz, DiAcHz |FF, SS|Blood|verification|[Lauterburg 1981](#5-references) |
-| 5 mg/kg| po |   INH, AcINH, INA, INAG |FF, SS|Urine|verification|[Mitchell 1975 1981](#5-references) |
+| 5 mg/kg| po |   INH, AcINH, INA, INAG |FF, SS|Urine|verification|[Mitchell 1975a](#5-references) |
 | 20 mg/kg| po |   INH, AcINH, INA, INAG, AcINH, DiAcHz |FF, SS|Urine|verification|[Ellard 1976](#5-references) |
