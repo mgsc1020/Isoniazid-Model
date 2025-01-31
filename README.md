@@ -1,8 +1,13 @@
-# COMPOUND-Model
-Whole-body PBPK model of isoniazide
+# Isoniazid-Model
+Whole-body PBPK model of isoniazid
 
 ## Repository files
-**_tbd._**
+Within this repository, we share a whole-body PBPK model of isoniazid and its metabolites (acetylisoniazid, isonicotinic acid, isonicotinylglycine, hydrazine, acetylhydrazine and diacetylhydrazine). The model was developed using data of 11 clinical studies of intravenous (dosing range 5 - 10 mg/kg) and oral administration (dosing range 4.68 - 20 mg/kg and 300-900 mg).
+
+The PK-Sim project file contains simulation examples and the observed data of all clinical studies used for model development and evaluation. For further details, quantitative model evaluation, sensitivity analysis and extensive documentation please refer to [1].
+
+## Version information
+PK-Sim Version 11.
 
 ## Code of conduct
 Everyone interacting in the Open Systems Pharmacology community (codebases, issue trackers, chat rooms, mailing lists etc...) is expected to follow the Open Systems Pharmacology [code of conduct](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct).
@@ -13,5 +18,5 @@ We encourage contribution to the Open Systems Pharmacology community. Before get
 ## License
 The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
 
-## References
-[1] **_tbd._**
+## Reference
+[1] Cordes H, Thiel C, Aschmann HE, Baier V, Blank LM, Kuepfer L. A physiologically based pharmacokinetic model of isoniazid and its application in individualizing tuberculosis chemotherapy. Antimicrob Agents Chemother 2016, [http://doi.org/10.1128/AAC.00508-16](https://journals.asm.org/doi/10.1128/aac.00508-16)
