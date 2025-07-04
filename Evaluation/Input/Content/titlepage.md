@@ -1,4 +1,4 @@
-# Building and evaluation of a PBPK model for Isoniazide in healthy adults
+# Building and evaluation of a PBPK model for Isoniazid in healthy adults
 
 
 
