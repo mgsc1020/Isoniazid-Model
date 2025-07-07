@@ -1,6 +1,6 @@
 ### Absorption <a id="model-parameters-and-assumptions-absorption"></a>
 
-The parameter value for  `Specific intestinal permeability` and `Intestinal Paracellular permeability` were predicted from physicochemical properties by PK-SIM®, and the `Specific intestinal permeability` was adjusted based on PK data for slow and fast acetylators after oral administration, see [Section 2.3.4](#model-parameters-and-assumptions-identification). The  solubility used was predicted (see [Section 2.2.1](#invitro-and-physico-chemical-data)). A dissolved formulation was implemented. 
+The parameter value for  `Specific intestinal permeability` and `Intestinal Paracellular permeability` were predicted from physicochemical properties by PK-SIM®, and the `Specific intestinal permeability` was adjusted based on PK data for slow and fast acetylators after oral administration, see [Section 2.3.4](#model-parameters-and-assumptions-identification). The  solubility used was predicted (see [Section 2.2.1](#invitro-and-physico-chemical-data)). A Lint80 formulation was implemented. 
 
 ### Distribution <a id="model-parameters-and-assumptions-distribution"></a>
 

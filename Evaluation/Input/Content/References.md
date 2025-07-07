@@ -39,13 +39,9 @@ administration of isoniazid. J Pharmacol Exp Ther 243:686–689.
 
 **PK-Sim Ontogeny Database Version 7.3** PK-Sim Ontogeny Database Version 7.3 (https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation/blob/38cf71b384cfc25cfa0ce4d2f3addfd32757e13b/PK-Sim%20Ontogeny%20Database%20Version%207.3.pdf)
 
-**van der Wethuizeb 2000** van der Westhuizen FH, Pretorius PJ, Erasmus E. 2000. The utilization of alanine, glutamic acid, and serine as amino acid substrates for glycine N-acyltransferase. J Biochem Mol Toxicol 14:102–109.
-
 **von Sassen 1985** von Sassen W, Castro-Parra M, Musch E, Eichelbaum M. 1985. Determination of isoniazid, acetylisoniazid, acetylhydrazine and diacetylhydrazine in biological fluids by high-performance liquid chromatography. J
 Chromatogr 338:113–122. http://dx.doi.org/10.1016/0378-4347
 (85)80075-X.
-
-**Uchino 2002** Uchino H. 2002. Transport of amino acid-related compounds mediated by L-type amino acid transporter 1 (LAT1): insights into the mechanisms of substrate recognition. Mol Pharmacol 61:729 –737. http://dx.doi.org /10.1124/mol.61.4.729.
 
 **Willman 2007** Willmann 2007 Willmann S, Höhn K, Edginton A, Sevestre M, Solodenko J, Weiss W, Lippert J, Schmitt W. Development of a physiology-based whole-body population model for assessing the influence of individual variability on the pharmacokinetics of drugs. J Pharmacokinet Pharmacodyn. 2007, 34(3): 401-431.
 

@@ -2,8 +2,8 @@
     "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v3.1/OSP_Qualification_Plan_Schema.json",
     "Projects": [
         {
-            "Id": "Compound",
-            "Path": "../../Compound.json",
+            "Id": "Isoniazid",
+            "Path": "../../Isoniazid.json",
             "BuildingBlocks": [],
             "SimulationParameters": []
         }
@@ -54,7 +54,7 @@
                 {
                     "Type": "Y",
                     "Dimension": "Concentration (mass)",
-                    "Unit": "µg/l",
+                    "Unit": "mg/l",
                     "GridLines": false,
                     "Scaling": "Log"
                 }
@@ -121,13 +121,133 @@
         },
         "AllPlots": [
             {
-                "Project": "Compound",
-                "Simulation": "Sim 1 - intravenous",
+                "Project": "Isoniazid",
+                "Simulation": "Isoniazid fast acetylator",
                 "SectionReference": "ct-profiles"
             },
             {
-                "Project": "Compound",
-                "Simulation": "Sim 2 - peroral",
+                "Project": "Isoniazid",
+                "Simulation": "Isoniazid inter acetylator",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Isoniazid slow acetylator",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Bing 2011_mean_300 mg_PO_Fast",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Bing 2011_mean_300 mg_PO_Inter",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Bing 2011_mean_300 mg_PO_Slow",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Boxenbaum 1974_subject A_9.87 mg/kg_IV_Slow",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Boxenbaum 1974_subject B_8.38 mg/kg_IV_Fast",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Ellard 1973_mean_5 mg/kg_IV_Fast",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Ellard 1973_mean_5 mg/kg_IV_Inter",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Ellard 1973_mean_5 mg/kg_IV_Slow",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Lauterburg 1985_mean_300 mg_PO_Fast",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Lauterburg 1985_mean_300 mg_PO_Slow",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Pea 199_mean_4.68 mg/kg_PO_Fast",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Pea 199_mean_4.75 mg/kg_PO_Slow",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_von Sassen 1985_mean_10 mg/kg_IV_Slow",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Kubota 2007_mean_300 mg_PO_Fast",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Kubota 2007_mean_300 mg_PO_Inter",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Kubota 2007_mean_600 mg_PO_Fast",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Kubota 2007_mean_900 mg_PO_Fast",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Lauterberg 1981_mean_300 mg_PO_Fast",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Lauterberg 1981_mean_300 mg_PO_Slow",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Mitchel 1975_mean_5 mg/kg_PO_Fast",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Mitchel 1975_mean_5 mg/kg_PO_Slow",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Peretti 1987_mean_300 mg_PO_Fast",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Isoniazid",
+                "Simulation": "Human_Peretti 1987_mean_300 mg_PO_Slow",
                 "SectionReference": "ct-profiles"
             }
         ],
@@ -146,28 +266,147 @@
                 ],
                 "Groups": [
                     {
-                        "Caption": "Intravenous administration",
+                        "Caption": "Isoniazid (model building)",
                         "Symbol": "Circle",
                         "OutputMappings": [
                             {
-                                "Project": "Compound",
-                                "Simulation": "Sim 1 - intravenous",
-                                "Output": "Organism|PeripheralVenousBlood|COMPOUND|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Observed data iv",
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Bing 2011_mean_300 mg_PO_Fast",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Bing 2011_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_300 mg_PO_rapid",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Bing 2011_mean_300 mg_PO_Inter",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Bing 2011_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_300 mg_PO_inter",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Bing 2011_mean_300 mg_PO_Slow",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Bing 2011_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_300 mg_PO_slow",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Boxenbaum 1974_subject A_9.87 mg/kg_IV_Slow",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Boxenbaum 1974_Isoniazid_A_Human_Peripheral Venous Blood_Plasma_9.87 mg/kg_IV_slow",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Boxenbaum 1974_subject B_8.38 mg/kg_IV_Fast",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Boxenbaum 1974_Isoniazid_B_Human_Peripheral Venous Blood_Plasma_8.38 mg/kg_IV_rapid",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Ellard 1973_mean_5 mg/kg_IV_Fast",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ellard 1973_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_5 mg/kg_IV_rapid",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Ellard 1973_mean_5 mg/kg_IV_Inter",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ellard 1973_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_5 mg/kg_IV_inter",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Ellard 1973_mean_5 mg/kg_IV_Slow",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ellard 1973_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_5 mg/kg_IV_slow",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Pea 199_mean_4.68 mg/kg_PO_Fast",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Pea 1999_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_4.68 mg/kg_PO_rapid",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Pea 199_mean_4.75 mg/kg_PO_Slow",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Pea 1999_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_4.75 mg/kg_PO_slow",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_von Sassen 1985_mean_10 mg/kg_IV_Slow",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "von Sassen 1985_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_10 mg/kg_IV_slow",
                                 "Color": "#FF0000"
                             }
                         ]
                     },
                     {
-                        "Caption": "Oral administration",
+                        "Caption": "Isoniazid (model verification)",
                         "Symbol": "Square",
                         "OutputMappings": [
                             {
-                                "Project": "Compound",
-                                "Simulation": "Sim 2 - peroral",
-                                "Output": "Organism|PeripheralVenousBlood|COMPOUND|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Observed data po",
-                                "Color": "#FF0000"
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Kubota 2007_mean_300 mg_PO_Fast",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Kubota 2007_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_300 mg_PO_rapid",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Kubota 2007_mean_300 mg_PO_Inter",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Kubota 2007_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_300 mg_PO_inter",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Kubota 2007_mean_600 mg_PO_Fast",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Kubota 2007_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_600 mg_PO_rapid",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Kubota 2007_mean_900 mg_PO_Fast",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Kubota 2007_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_900 mg_PO_rapid",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Lauterberg 1981_mean_300 mg_PO_Fast",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Lauterburg 1981_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_300 mg_PO_rapid",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Lauterberg 1981_mean_300 mg_PO_Slow",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Lauterburg 1981_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_300 mg_PO_slow",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Peretti 1987_mean_300 mg_PO_Fast",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Peretti 1987_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_300 mg_PO_rapid",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Isoniazid",
+                                "Simulation": "Human_Peretti 1987_mean_300 mg_PO_Slow",
+                                "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Peretti 1987_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_300 mg_PO_slow",
+                                "Color": "#000000"
                             }
                         ]
                     }
@@ -180,14 +419,14 @@
     },
     "Inputs": [
         {
-            "Project": "Compound",
-            "Name": "COMPOUND",
+            "Project": "Isoniazid",
+            "Name": "Isoniazid",
             "Type": "Compound",
             "SectionReference": "final-input-parameters"
         },
         {
             "Project": "Compound",
-            "Name": "Tablet",
+            "Name": "Lint80_Bing",
             "Type": "Formulation",
             "SectionReference": "final-input-parameters"
         }

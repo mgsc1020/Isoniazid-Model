@@ -2,7 +2,7 @@ The PBPK model for isoniazid was developed and verified with clinical pharmacoki
 
 The model was built and evaluated covering clinical data from studies including in particular:
 
-* intravenous administration from 5 mg/Kg to 10 mg/kg
+* intravenous administration from 5 mg/kg to 10 mg/kg
 * oral administration from 4.68 to 20 mg/kg as well as absolute doses of 300 mg - 900 mg po
 
 The model describes isoniazid metabolism and urinary excretion.
