@@ -222,12 +222,12 @@
             },
             {
                 "Project": "Isoniazid",
-                "Simulation": "Human_Lauterberg 1981_mean_300 mg_PO_Fast",
+                "Simulation": "Human_Lauterburg 1981_mean_300 mg_PO_Fast",
                 "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Isoniazid",
-                "Simulation": "Human_Lauterberg 1981_mean_300 mg_PO_Slow",
+                "Simulation": "Human_Lauterburg 1981_mean_300 mg_PO_Slow",
                 "SectionReference": "ct-profiles"
             },
             {
