@@ -15,7 +15,7 @@ Isoniazid and its metabolites physicochemical properties were predicted from Mar
 
 ### Clinical data <a id="clinical-data"></a>
 
-A literature search was performed to collect available clinical data on isoniazide in adults. 
+A literature search was performed to collect available clinical data on isoniazid in adults. 
 
 The following publications were used for model building (training dataset) and model verification (test dataset):
 
