@@ -120,21 +120,7 @@
             }
         },
         "AllPlots": [
-            {
-                "Project": "Isoniazid",
-                "Simulation": "Isoniazid fast acetylator",
-                "SectionReference": "ct-profiles"
-            },
-            {
-                "Project": "Isoniazid",
-                "Simulation": "Isoniazid intermediate acetylator",
-                "SectionReference": "ct-profiles"
-            },
-            {
-                "Project": "Isoniazid",
-                "Simulation": "Isoniazid slow acetylator",
-                "SectionReference": "ct-profiles"
-            },
+            
             {
                 "Project": "Isoniazid",
                 "Simulation": "Human_Bing 2011_mean_300 mg_PO_Fast",
@@ -327,14 +313,14 @@
                             },
                             {
                                 "Project": "Isoniazid",
-                                "Simulation": "Human_Pea 199_mean_4.68 mg/kg_PO_Fast",
+                                "Simulation": "Human_Pea 1999_mean_4.68 mg/kg_PO_Fast",
                                 "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Pea 1999_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_4.68 mg/kg_PO_rapid",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Isoniazid",
-                                "Simulation": "Human_Pea 199_mean_4.75 mg/kg_PO_Slow",
+                                "Simulation": "Human_Pea 1999_mean_4.75 mg/kg_PO_Slow",
                                 "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Pea 1999_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_4.75 mg/kg_PO_slow",
                                 "Color": "#FF0000"
