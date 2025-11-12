@@ -18,7 +18,7 @@ Renal clearance was implemented as glomerular filtration for isoniazid ([Ellard 
 
 ### Automated Parameter Identification <a id="model-parameters-and-assumptions-identification"></a>
 
-The following parameters have been estimated in the model for isoniazide:
+The following parameters have been estimated in the model for isoniazid:
 
 | Model Parameter<sup>(a)</sup> | 
 |--------------|
