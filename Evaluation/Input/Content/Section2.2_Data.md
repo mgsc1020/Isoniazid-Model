@@ -33,5 +33,5 @@ The following publications were used for model building (training dataset) and m
 | 5 mg/kg| po | FF, SS|Urine|verification|[Mitchell 1975a](#5-references) |
 | 20 mg/kg| po |FF, SS|Urine|verification|[Ellard 1976](#5-references) |
 
-<sup>(a)</sup> intravenous (iv) or per os (po) administation route
+<sup>(a)</sup> intravenous (iv) or per os (po) administration route
 <sup>(b)</sup> fast acetylator (FF), intermediate acetylator (FS), slow acetylator (SS) genotype
