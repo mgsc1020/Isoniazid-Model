@@ -127,7 +127,7 @@
             },
             {
                 "Project": "Isoniazid",
-                "Simulation": "Isoniazid inter acetylator",
+                "Simulation": "Isoniazid intermediate acetylator",
                 "SectionReference": "ct-profiles"
             },
             {
