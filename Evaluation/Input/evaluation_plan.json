@@ -232,12 +232,12 @@
             },
             {
                 "Project": "Isoniazid",
-                "Simulation": "Human_Mitchel 1975_mean_5 mg/kg_PO_Fast",
+                "Simulation": "Human_Mitchell 1975_mean_5 mg/kg_PO_Fast",
                 "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Isoniazid",
-                "Simulation": "Human_Mitchel 1975_mean_5 mg/kg_PO_Slow",
+                "Simulation": "Human_Mitchell 1975_mean_5 mg/kg_PO_Slow",
                 "SectionReference": "ct-profiles"
             },
             {
