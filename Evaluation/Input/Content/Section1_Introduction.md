@@ -1,4 +1,4 @@
-The presented model building and evaluation report evaluates the performance of a PBPK model for isoniazid in healthy adults.
+The presented model building and evaluation report evaluates the performance of a PBPK model for isoniazid (INH) in healthy adults.
 
 The herein presented model was initially developed and published by Cordes *et al.* ([Cordes 2016](#5-references)), extended for a hepatic hydrazine clearance reaction and adjusted later on to PK-Sim® V12. The PBPK model by Cordes *et al.* includes the metabolites (acetylisoniazid, isonicotinic acid, isonicotinylglycine, hydrazine, acetylhydrazine and diacetylhydrazine). However, the metabolites require defining the stoehiometry of the enzymatic reactions in MoBi. Since MoBi projects are currently not supported by the qualification workflow, the presented model includes only the parent compound.
 
