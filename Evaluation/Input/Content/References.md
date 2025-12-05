@@ -43,5 +43,5 @@ administration of isoniazid. J Pharmacol Exp Ther 243:686–689.
 Chromatogr 338:113–122. http://dx.doi.org/10.1016/0378-4347
 (85)80075-X.
 
-**Willman 2007** Willmann 2007 Willmann S, Höhn K, Edginton A, Sevestre M, Solodenko J, Weiss W, Lippert J, Schmitt W. Development of a physiology-based whole-body population model for assessing the influence of individual variability on the pharmacokinetics of drugs. J Pharmacokinet Pharmacodyn. 2007, 34(3): 401-431.
+**Willmann 2007** Willmann 2007 Willmann S, Höhn K, Edginton A, Sevestre M, Solodenko J, Weiss W, Lippert J, Schmitt W. Development of a physiology-based whole-body population model for assessing the influence of individual variability on the pharmacokinetics of drugs. J Pharmacokinet Pharmacodyn. 2007, 34(3): 401-431.
 
