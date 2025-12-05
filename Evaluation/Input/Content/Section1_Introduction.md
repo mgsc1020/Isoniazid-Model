@@ -11,6 +11,6 @@ The PBPK model of isoniazid has been developed using 11 clinical studies, includ
 
 The presented model includes the following features:
 
-- metabolic reactions (NAT2 and NAAA)
+- metabolic reactions (N-acetyltransferase type 2 (NAT2) and N-acylethanolamine acid amidase (NAAA))
 - urinary excretion reactions
 
