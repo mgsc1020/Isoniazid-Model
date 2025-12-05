@@ -2,7 +2,7 @@
 Whole-body PBPK model of isoniazid
 
 ## Repository files
-Within this repository, we share a whole-body PBPK model of isoniazid. The model was developed using data of 11 clinical studies of intravenous (dosing range 5 - 10 mg/kg) and oral administration (dosing range 4.68 - 20 mg/kg and 300-900 mg).
+Within this repository, we share a whole-body PBPK model of isoniazid. The model was developed using data of 11 clinical studies of intravenous (dosing range 5 - 10 mg/kg) and oral administration (dosing range 4.68 - 5 mg/kg and 300-900 mg).
 
 The PK-Sim project file contains simulation examples and the observed data of all clinical studies used for model development and evaluation. For further details, quantitative model evaluation, sensitivity analysis and extensive documentation please refer to [1]. A PBPK model including the metabolites (acetylisoniazid, isonicotinic acid, isonicotinylglycine, hydrazine, acetylhydrazine and diacetylhydrazine) is available [1], but not included in this repository as it requires defining the stoichiometry of the enzymatic reactions in MoBi which is currently not supported by the requalification workflow. 
 

@@ -1,5 +1,3 @@
-
-
 **Boxenbaum 1974** Boxenbaum HG, Riegelman S. 1974. Determination of isoniazid and metabolites in biological fluids. J Pharm Sci 63:1191–1197. http://dx.doi.org/10.1002/jps.2600630804.
 
 **Cordes 2016** Cordes H, Thiel C, Aschmann HE, Baier V, Blank LM, Kuepfer L. 2016. A physiologically based pharmacokinetic model of isoniazid and its application in individualizing tuberculosis chemotherapy. Antimicrob Agents Chemother 60(10):6134-45. http://doi.org/10.1128/AAC.00508-16

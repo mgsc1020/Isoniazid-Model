@@ -21,17 +21,16 @@ The following publications were used for model building (training dataset) and m
 
 | **Dose** | **Dosing<sup>(a)</sup>** |**Genotype<sup>(b)</sup>**|**Sample**|**Dataset**| **Reference** |
 | :---------------------- | ------| -----  | ------------------------------------ | ----------------|---------------------------------------------- |
-| 8.38, 9.874 mg/kg| iv | FF, SS|Blood, urine|training and verification|[Boxenbaum 1974](#main-references) |
-| 5 mg/kg| iv |  FF, FS, SS|Blood, urine|verification|[Ellard 1973](#main-references) |
-| 10 mg/kg| iv |  SS|Blood|verification|[von Sassen 1985](#main-references) |
-| 300 mg| po |  FF, FS, SS|Blood|training and verification|[Haegeli 2007](#main-references) |
-| 300, 600, 900 mg| po | FF, FS|Blood|verification|[Chen 2011](#main-references) |
-| 4.75, 4.68 mg/kg| po | FF, SS|Blood|verification|[Pea 1999](#main-references) |
-| 300 mg| po |FF, SS|Blood|verification|[Peretti 1987](#main-references) |
+| 8.38, 9.874 mg/kg| iv | FF, SS|Blood, urine|training|[Boxenbaum 1974](#main-references) |
+| 300 mg| po |  FF, FS, SS|Blood|training|[Chen 2011](#main-references) |
+| 5 mg/kg| iv |  FF, FS, SS|Blood, urine|training|[Ellard 1973](#main-references) |
+| 10 mg/kg| iv |  SS|Blood|training|[von Sassen 1985](#main-references) |
+| 300, 600, 900 mg| po | FF, FS|Blood|verification|[Kubota 2007](#main-references) |
 | 300 mg| po | FF, SS|Blood|verification|[Lauterburg 1985](#main-references) |
 | 300 mg| po | FF, SS|Blood|verification|[Lauterburg 1981](#main-references) |
 | 5 mg/kg| po | FF, SS|Urine|verification|[Mitchell 1975a](#main-references) |
-| 20 mg/kg| po |FF, SS|Urine|verification|[Ellard 1976](#main-references) |
+| 4.75, 4.68 mg/kg| po | FF, SS|Blood|verification|[Pea 1999](#main-references) |
+| 300 mg| po |FF, SS|Blood|verification|[Peretti 1987](#main-references) |
 
 <sup>(a)</sup> intravenous (iv) or per os (po) administration route
 <sup>(b)</sup> fast acetylator (FF), intermediate acetylator (FS), slow acetylator (SS) genotype
