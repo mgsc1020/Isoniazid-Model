@@ -16,7 +16,7 @@ Isoniazid is mainly acetylated by NAT2 to acetylisoniazid. Besides the acetylati
 
 Renal clearance was implemented as glomerular filtration for isoniazid ([Ellard 1976, Mitchell 1975b](#main-references)).
 
-### Automated Parameter Identification <a id="model-parameters-and-assumptions-identification"></a>
+### Automated Parameter Identification<a id="model-parameters-and-assumptions-identification"></a>
 
 The following parameters have been estimated in the model for isoniazid:
 
