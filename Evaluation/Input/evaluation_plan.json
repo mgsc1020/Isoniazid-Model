@@ -371,14 +371,14 @@
                                 "Simulation": "Human_Pea 1999_mean_4.68 mg/kg_PO_Fast",
                                 "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Pea 1999_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_4.68 mg/kg_PO_rapid",
-                                "Color": "#FF0000"
+                                "Color": "#000000"
                             },
                             {
                                 "Project": "Isoniazid",
                                 "Simulation": "Human_Pea 1999_mean_4.75 mg/kg_PO_Slow",
                                 "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Pea 1999_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_4.75 mg/kg_PO_slow",
-                                "Color": "#FF0000"
+                                "Color": "#000000"
                             },
                             {
                                 "Project": "Isoniazid",
