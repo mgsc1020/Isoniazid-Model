@@ -10,7 +10,7 @@ After testing the available organ-plasma partition coefficient and cell permeabi
 
 ### Metabolism and Elimination <a id="model-parameters-and-assumptions-metabolism"></a>
 
-Metabolic reactions and active transport were integrated into the PBPK model. Michaelis-Menten kinetics were used to describe the reaction rates. Tissue specific relative enzyme and transporter abundances were quantified by gene expression data provided by the PBPK modeling software [Meyer 2012](#main-references). 
+Metabolic reactions and active transport were integrated into the PBPK model. Michaelis-Menten kinetics were used to describe the reaction rates. Tissue-specific relative enzyme and transporter abundances were quantified by gene expression data provided by the PBPK modeling software [Meyer 2012](`#main-references`). 
 
 Isoniazid is mainly acetylated by NAT2 to acetylisoniazid. Besides the acetylation pathway, isoniazid is directly converted into isonicotinic acid and hydrazine by an unknown hydrolase. Here, we assumed that NAAA catalyzed this reaction, since the molecular site of the reaction is the same as that in the hydrolysis of acetylisoniazid to isonicotinic acid and acetylhydrazine.
 
