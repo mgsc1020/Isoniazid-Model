@@ -1,6 +1,6 @@
 ### In vitro and physicochemical data <a id="invitro-and-physico-chemical-data"></a>
 
-Isoniazid and its metabolites physicochemical properties were predicted from MarvinSketch software  [MarvinSketch V15.11.3](#main-references). The information is summarized in the table below, and was used for model building. Final model parameters are stated in [Section 3.1](#31-isoniazid-final-input-parameters).
+Isoniazid physicochemical properties were predicted from MarvinSketch software  [MarvinSketch V15.11.3](#main-references). The information is summarized in the table below, and was used for model building. Final model parameters are stated in [Section 3.1](#final-input-parameters).
 
 | **Parameter**           | **Unit** | **Value** | **Source**| **Description** |
 | :---------------------- | ------| -----  | ------------------------------------ | ------------------------------------------------------------ |
