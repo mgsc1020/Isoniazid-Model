@@ -354,14 +354,14 @@
                             },
                             {
                                 "Project": "Isoniazid",
-                                "Simulation": "Human_Lauterberg 1981_mean_300 mg_PO_Fast",
+                                "Simulation": "Human_Lauterburg 1981_mean_300 mg_PO_Fast",
                                 "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Lauterburg 1981_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_300 mg_PO_rapid",
                                 "Color": "#000000"
                             },
                             {
                                 "Project": "Isoniazid",
-                                "Simulation": "Human_Lauterberg 1981_mean_300 mg_PO_Slow",
+                                "Simulation": "Human_Lauterburg 1981_mean_300 mg_PO_Slow",
                                 "Output": "Organism|PeripheralVenousBlood|Isoniazid|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Lauterburg 1981_Isoniazid_mean_Human_Peripheral Venous Blood_Plasma_300 mg_PO_slow",
                                 "Color": "#000000"

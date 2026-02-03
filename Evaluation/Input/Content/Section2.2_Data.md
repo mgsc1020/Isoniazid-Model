@@ -4,7 +4,6 @@ Isoniazid physicochemical properties were predicted from MarvinSketch software  
 
 | **Parameter**           | **Unit** | **Value** | **Source**| **Description** |
 | :---------------------- | ------| -----  | ------------------------------------ | ------------------------------------------------------------ |
-| ****Isoniazid****                      |
 | MW                      | g/mol    | 137.14    | Predicted [MarvinSketch V15.11.3](#main-references)   | Molecular weight |
 | pK<sub>a</sub> (acid)   |          | 13.61      | Predicted [MarvinSketch V15.11.3](#main-references) | acid dissociation constant |
 | pK<sub>b</sub> (base)   |          | 2.36, 3.36      | Predicted [MarvinSketch V15.11.3](#main-references)   | base dissociation constant |
