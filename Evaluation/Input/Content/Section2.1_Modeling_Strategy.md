@@ -6,16 +6,12 @@ The model was built combining bottom-up and top-down techniques. An extensive li
 
 The PBPK models for slow, intermediate and fast metabolizers were built based on data from healthy individuals and tuberculosis patients, using the reported sex, ethnicity and mean values for age, weight and height from each study protocol. If the studies did not provide these parameters, mean patients provided by the PK-Sim® software were used. The physicochemical parameters for isoniazid were calculated with cheminformatics software (MarvinSketch; Version 15.11.30.0; ChemAxon Kft., Budapest, Hungary). Metabolic reactions and active transport were integrated into the PBPK model. Michaelis-Menten kinetics were used to describe the reaction rates. 
 
-The clinical datasets for isoniazid PBPK modeling were divided into a training dataset for model building and a test dataset for model evaluation. Both datasets are presented in [Section 2.2](#methods-data).
+The clinical datasets for isoniazid PBPK modeling were divided into a training dataset for model building and a test dataset for model evaluation. Both datasets are presented in [Section 2.2](#clinical-data).
 
 A specific set of parameters ([Section 2.3.4.](#model-parameters-and-assumptions-identification)) were optimized to describe the disposition of isoniazid in MATLAB® software (version 8.5.0.197613; The MathWorks, Inc., Natick, MA) by use of the MoBi toolbox for MATLAB (version 6.0.3; Bayer Technology Services GmbH, Leverkusen, Germany).
 
 The model was verified by simulating further clinical studies reporting pharmacokinetic concentration-time profiles after intravenous and oral administration of isoniazid (test datasets).
 
-Details about input data (physicochemical, *in vitro* and clinical) can be found in [Section 2.2](#methods-data).
+Details about input data (physicochemical, *in vitro* and clinical) can be found in [Section 2.2](#invitro-and-physico-chemical-data).
 
 Details about the structural model and its parameters can be found in [Section 2.3](#model-parameters-and-assumptions).
-
-
-
-

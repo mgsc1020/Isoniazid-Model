@@ -15,14 +15,14 @@
                 {
                     "Type": "X",
                     "Dimension": "Concentration (mass)",
-                    "Unit": "µg/l",
+                    "Unit": "mg/l",
                     "GridLines": false,
                     "Scaling": "Log"
                 },
                 {
                     "Type": "Y",
                     "Dimension": "Concentration (mass)",
-                    "Unit": "µg/l",
+                    "Unit": "mg/l",
                     "GridLines": false,
                     "Scaling": "Log"
                 }
@@ -411,7 +411,7 @@
             "SectionReference": "final-input-parameters"
         },
         {
-            "Project": "Compound",
+            "Project": "Isoniazid",
             "Name": "Lint80_Bing",
             "Type": "Formulation",
             "SectionReference": "final-input-parameters"

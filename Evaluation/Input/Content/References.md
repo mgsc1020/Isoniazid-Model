@@ -9,15 +9,15 @@ to acid-labile isoniazid: a study in Finnish Lapland. Tubercle 54:201–210. htt
 
 **Ellard 1976** Ellard GA, Gammon PT. 1976. Pharmacokinetics of isoniazid metabolism in man. J Pharmacokinet Biopharm 4:83–113. http://dx.doi.org/10.1007/BF01086149.
 
-**Kubota 2007** Kubota R, Ohno M, Hasunuma T, Iijima H, Azuma J. 2007. Dose escalation study of isoniazid in healthy volunteers with the rapid acetylatorgenotype of arylamine N-acetyltransferase 2. Eur J Clin Pharmacol 63:927–933. http://dx.doi.org/10.1007/s00228-007-0333-1.
+**Kubota 2007** Kubota R, Ohno M, Hasunuma T, Iijima H, Azuma J. 2007. Dose escalation study of isoniazid in healthy volunteers with the rapid acetylator genotype of arylamine N-acetyltransferase 2. Eur J Clin Pharmacol 63:927–933. http://dx.doi.org/10.1007/s00228-007-0333-1.
 
 **Kubota 1991** Kubota K, Ishizaki T. 1991. Dose-dependent pharmacokinetics of benzoic acid following oral administration of sodium benzoate to humans. Eur J Clin Pharmacol 41:363–368. http://dx.doi.org/10.1007/BF00314969.
 
-**Kuepfer 2016** Kuepfer 2016 Kuepfer L, Niederalt C, Wendl T, Schlender JF, Willmann S, Lippert J, Block M, Eissing T, Teutonico D. Applied Concepts in PBPK Modeling: How to Build a PBPK/PD Model.CPT Pharmacometrics Syst Pharmacol. 2016 Oct;5(10):516-531.
+**Kuepfer 2016** Kuepfer L, Niederalt C, Wendl T, Schlender JF, Willmann S, Lippert J, Block M, Eissing T, Teutonico D. Applied Concepts in PBPK Modeling: How to Build a PBPK/PD Model. CPT Pharmacometrics Syst Pharmacol. 2016 Oct;5(10):516-531.
 
 **Herrera 1990**  Herrera AM, Scott DO, Lunte CE. 1990. Microdialysis sampling for determination of plasma protein binding of drugs. Pharm Res 7:1077–1081. http://dx.doi.org/10.1023/A:1015955503708.
 
-**Lauterburg 1981** Lauterburg BH, Smith CV, Mitchell JR. 1981. Determination of isoniazid and its hydrazino metabolites, acetylisoniazid, acetylhydrazine, and diacetylhydrazine in human plasma by gas chromatography-mass spectrometry. J Chromatogr B Biomed Sci Appl 224:431– 438. http://dx.doi .org/10.1016/S0378-4347(00)80216-9.
+**Lauterburg 1981** Lauterburg BH, Smith CV, Mitchell JR. 1981. Determination of isoniazid and its hydrazino metabolites, acetylisoniazid, acetylhydrazine, and diacetylhydrazine in human plasma by gas chromatography-mass spectrometry. J Chromatogr B Biomed Sci Appl 224:431– 438. http://dx.doi.org/10.1016/S0378-4347(00)80216-9.
 
 **Lauterburg 1985** Lauterburg BH, Smith CV, Todd EL, Mitchell JR. 1985. Pharmacokinetics of the toxic hydrazino metabolites formed from isoniazid in humans. J Pharmacol Exp Ther 235:566 –570.
 
@@ -25,12 +25,11 @@ to acid-labile isoniazid: a study in Finnish Lapland. Tubercle 54:201–210. htt
 
 **Meyer 2012** Meyer M, Schneckener S, Ludewig B, Kuepfer L, Lippert J. 2012. Using expression data for quantification of active processes in physiologically based pharmacokinetic modeling. Drug Metab Dispos 40:892–901.
 
-**Mitchell 1975a** Mitchell JR, Thorgeirsson UP, Black M, Timbrell JA, Snodgrass WR, Potter WZ, Jollow HR, Keiser HR. 1975. Increased incidence of isoniazid hepatitis in rapid acetylators: possible relation to hydranize metabolites.Clin Pharmacol Ther 18:70 –79. http://dx.doi.org/10.1002/cpt197518170.
+**Mitchell 1975a** Mitchell JR, Thorgeirsson UP, Black M, Timbrell JA, Snodgrass WR, Potter WZ, Jollow HR, Keiser HR. 1975. Increased incidence of isoniazid hepatitis in rapid acetylators: possible relation to hydrazine metabolites. Clin Pharmacol Ther 18:70–79. http://dx.doi.org/10.1002/cpt197518170.
 
-**Mitchell 1975b** Mitchell JR, Thorgeirsson UP, Black M, Timbrell JA, Snodgrass WR, Potter 178 WZ, Jollow HR, Keiser HR. 1975. Increased incidence of isoniazid hepatitis in rapid acetylators: possible relation to hydranize metabolites. Clin Pharmacol Ther 180 18:70–9.
+**Mitchell 1975b** Mitchell JR, Thorgeirsson UP, Black M, Timbrell JA, Snodgrass WR, Potter WZ, Jollow HR, Keiser HR. 1975. Increased incidence of isoniazid hepatitis in rapid acetylators: possible relation to hydrazine metabolites. Clin Pharmacol Ther 18:70–9.
 
-**Pea 1999** Pea F, Milaneschi R, Baraldo M, Talmassons G, Furlanut M. 1999.Isoniazid and its hydrazine metabolite in patients with tuberculosis. Clin Drug Invest 17:145–154. http://dx.doi.org/10.2165/00044011-199917020
--00009.
+**Pea 1999** Pea F, Milaneschi R, Baraldo M, Talmassons G, Furlanut M. 1999. Isoniazid and its hydrazine metabolite in patients with tuberculosis. Clin Drug Invest 17:145–154. http://dx.doi.org/10.2165/00044011-199917020-00009.
 
 **Peretti 1987** Peretti E, Karlaganis G, Lauterburg BH. 1987. Acetylation of acetylhydrazine, the toxic metabolite of isoniazid, in humans. Inhibition by concomitant
 administration of isoniazid. J Pharmacol Exp Ther 243:686–689.

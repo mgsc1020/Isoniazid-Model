@@ -1,6 +1,6 @@
 ### In vitro and physicochemical data <a id="invitro-and-physico-chemical-data"></a>
 
-Isoniazid physicochemical properties were predicted from MarvinSketch software  [MarvinSketch V15.11.3](#main-references). The information is summarized in the table below, and was used for model building. Final model parameters are stated in [Section 3.1](#final-input-parameters).
+Isoniazid physicochemical properties were predicted from MarvinSketch software [MarvinSketch V15.11.3](#main-references). The information is summarized in the table below, and was used for model building. Final model parameters are stated in [Section 3.1](#final-input-parameters).
 
 | **Parameter**           | **Unit** | **Value** | **Source**| **Description** |
 | :---------------------- | ------| -----  | ------------------------------------ | ------------------------------------------------------------ |
@@ -9,7 +9,7 @@ Isoniazid physicochemical properties were predicted from MarvinSketch software  
 | pK<sub>b</sub> (base)   |          | 2.36, 3.36      | Predicted [MarvinSketch V15.11.3](#main-references)   | base dissociation constant |
 | Solubility    | g/L    | 42.15      |  Predicted [MarvinSketch V15.11.3](#main-references)    | solubility @ pH 7.4|
 | logP                    |          | -0.67     |Predicted [MarvinSketch V15.11.3](#main-references)| Partition coefficient between octanol and water |
-| fu                      | %        | 0.9      |     [Herrera 1990](#main-references)           | Fraction unbound in plasma    | 
+| fu                      | %        | 90      |     [Herrera 1990](#main-references)           | Fraction unbound in plasma    | 
 
 
 ### Clinical data <a id="clinical-data"></a>
