@@ -25,9 +25,7 @@ to acid-labile isoniazid: a study in Finnish Lapland. Tubercle 54:201–210. htt
 
 **Meyer 2012** Meyer M, Schneckener S, Ludewig B, Kuepfer L, Lippert J. 2012. Using expression data for quantification of active processes in physiologically based pharmacokinetic modeling. Drug Metab Dispos 40:892–901.
 
-**Mitchell 1975a** Mitchell JR, Thorgeirsson UP, Black M, Timbrell JA, Snodgrass WR, Potter WZ, Jollow HR, Keiser HR. 1975. Increased incidence of isoniazid hepatitis in rapid acetylators: possible relation to hydrazine metabolites. Clin Pharmacol Ther 18:70–79. http://dx.doi.org/10.1002/cpt197518170.
-
-**Mitchell 1975b** Mitchell JR, Thorgeirsson UP, Black M, Timbrell JA, Snodgrass WR, Potter WZ, Jollow HR, Keiser HR. 1975. Increased incidence of isoniazid hepatitis in rapid acetylators: possible relation to hydrazine metabolites. Clin Pharmacol Ther 18:70–9.
+**Mitchell 1975** Mitchell JR, Thorgeirsson UP, Black M, Timbrell JA, Snodgrass WR, Potter WZ, Jollow HR, Keiser HR. 1975. Increased incidence of isoniazid hepatitis in rapid acetylators: possible relation to hydrazine metabolites. Clin Pharmacol Ther 18:70–79. http://dx.doi.org/10.1002/cpt197518170.
 
 **Pea 1999** Pea F, Milaneschi R, Baraldo M, Talmassons G, Furlanut M. 1999. Isoniazid and its hydrazine metabolite in patients with tuberculosis. Clin Drug Invest 17:145–154. http://dx.doi.org/10.2165/00044011-199917020-00009.
 
@@ -37,8 +35,7 @@ administration of isoniazid. J Pharmacol Exp Ther 243:686–689.
 **PK-Sim Ontogeny Database Version 7.3** PK-Sim Ontogeny Database Version 7.3 (https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation/blob/38cf71b384cfc25cfa0ce4d2f3addfd32757e13b/PK-Sim%20Ontogeny%20Database%20Version%207.3.pdf)
 
 **von Sassen 1985** von Sassen W, Castro-Parra M, Musch E, Eichelbaum M. 1985. Determination of isoniazid, acetylisoniazid, acetylhydrazine and diacetylhydrazine in biological fluids by high-performance liquid chromatography. J
-Chromatogr 338:113–122. http://dx.doi.org/10.1016/0378-4347
-(85)80075-X.
+Chromatogr 338:113–122. http://dx.doi.org/10.1016/0378-4347(85)80075-X.
 
-**Willmann 2007** Willmann 2007 Willmann S, Höhn K, Edginton A, Sevestre M, Solodenko J, Weiss W, Lippert J, Schmitt W. Development of a physiology-based whole-body population model for assessing the influence of individual variability on the pharmacokinetics of drugs. J Pharmacokinet Pharmacodyn. 2007, 34(3): 401-431.
+**Willmann 2007** Willmann S, Höhn K, Edginton A, Sevestre M, Solodenko J, Weiss W, Lippert J, Schmitt W. Development of a physiology-based whole-body population model for assessing the influence of individual variability on the pharmacokinetics of drugs. J Pharmacokinet Pharmacodyn. 2007, 34(3): 401-431.
 

@@ -1,6 +1,6 @@
 ### Absorption<a id="model-parameters-and-assumptions-absorption"></a>
 
-The parameter values for `Specific intestinal permeability` and `Intestinal Paracellular permeability` were predicted from physicochemical properties by PK-SIM®, and the `Specific intestinal permeability` was adjusted based on PK data for slow and fast acetylators after oral administration, see [Section 2.3.4](`#model-parameters-and-assumptions-identification`). The solubility used was predicted (see [Section 2.2.1](`#invitro-and-physico-chemical-data`)). A Lint80 formulation was implemented.
+The parameter values for `Specific intestinal permeability` and `Intestinal Paracellular permeability` were predicted from physicochemical properties by PK-SIM®, and the `Specific intestinal permeability` was adjusted based on PK data for slow and fast acetylators after oral administration, see [Section 2.3.4](#model-parameters-and-assumptions-identification). The solubility used was predicted (see [Section 2.2.1](#invitro-and-physico-chemical-data)). A Lint80 formulation was implemented.
 
 ### Distribution<a id="model-parameters-and-assumptions-distribution"></a>
 
@@ -10,13 +10,13 @@ After testing the available organ-plasma partition coefficient and cell permeabi
 
 ### Metabolism and Elimination <a id="model-parameters-and-assumptions-metabolism"></a>
 
-Metabolic reactions and active transport were integrated into the PBPK model. Michaelis-Menten kinetics were used to describe the reaction rates. Tissue-specific relative enzyme and transporter abundances were quantified by gene expression data provided by the PBPK modeling software [Meyer 2012](`#main-references`). 
+Metabolic reactions and active transport were integrated into the PBPK model. Michaelis-Menten kinetics were used to describe the reaction rates. Tissue-specific relative enzyme and transporter abundances were quantified by gene expression data provided by the PBPK modeling software [Meyer 2012](#main-references). 
 
 Isoniazid is mainly acetylated by NAT2 to acetylisoniazid. Besides the acetylation pathway, isoniazid is directly converted into isonicotinic acid and hydrazine by an unknown hydrolase. Here, we assumed that NAAA catalyzed this reaction, since the molecular site of the reaction is the same as that in the hydrolysis of acetylisoniazid to isonicotinic acid and acetylhydrazine.
 
-Renal clearance was implemented as glomerular filtration for isoniazid ([Ellard 1976, Mitchell 1975b](#main-references)).
+Renal clearance was implemented as glomerular filtration for isoniazid ([Ellard 1976, Mitchell 1975](#main-references)).
 
-### Automated Parameter Identification<a id="model-parameters-and-assumptions-identification"></a>
+### Automated Parameter Identification <a id="model-parameters-and-assumptions-identification"></a>
 
 The following parameters have been estimated in the model for isoniazid:
 

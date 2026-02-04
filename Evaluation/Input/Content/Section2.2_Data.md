@@ -27,7 +27,7 @@ The following publications were used for model building (training dataset) and m
 | 300, 600, 900 mg| po | FF, FS|Blood|verification|[Kubota 2007](#main-references) |
 | 300 mg| po | FF, SS|Blood|verification|[Lauterburg 1985](#main-references) |
 | 300 mg| po | FF, SS|Blood|verification|[Lauterburg 1981](#main-references) |
-| 5 mg/kg| po | FF, SS|Urine|verification|[Mitchell 1975a](#main-references) |
+| 5 mg/kg| po | FF, SS|Urine|verification|[Mitchell 1975](#main-references) |
 | 4.75, 4.68 mg/kg| po | FF, SS|Blood|verification|[Pea 1999](#main-references) |
 | 300 mg| po |FF, SS|Blood|verification|[Peretti 1987](#main-references) |
 
