@@ -21,7 +21,7 @@ to acid-labile isoniazid: a study in Finnish Lapland. Tubercle 54:201–210. htt
 
 **Lauterburg 1985** Lauterburg BH, Smith CV, Todd EL, Mitchell JR. 1985. Pharmacokinetics of the toxic hydrazino metabolites formed from isoniazid in humans. J Pharmacol Exp Ther 235:566 –570.
 
-**MarvinSketch V15.11.3** MarvinSketch; Version 15.11.30.0; ChemAxon Kft., Budapest, Hungary
+**MarvinSketch V15.11.3** MarvinSketch; Version 15.11.3; ChemAxon Kft., Budapest, Hungary
 
 **Meyer 2012** Meyer M, Schneckener S, Ludewig B, Kuepfer L, Lippert J. 2012. Using expression data for quantification of active processes in physiologically based pharmacokinetic modeling. Drug Metab Dispos 40:892–901.
 

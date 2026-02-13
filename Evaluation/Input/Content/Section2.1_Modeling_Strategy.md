@@ -8,7 +8,7 @@ The PBPK models for slow, intermediate and fast metabolizers were built based on
 
 The clinical datasets for isoniazid PBPK modeling were divided into a training dataset for model building and a test dataset for model evaluation. Both datasets are presented in [Section 2.2.2](#clinical-data).
 
-A specific set of parameters ([Section 2.3.4](#model-parameters-and-assumptions-identification)) were optimized to describe the disposition of isoniazid in MATLAB® software (version 8.5.0.197613; The MathWorks, Inc., Natick, MA) by use of the MoBi toolbox for MATLAB (version 6.0.3; Bayer Technology Services GmbH, Leverkusen, Germany).
+A specific set of parameters ([Section 2.3.4](#automated-parameter-identification)) were optimized to describe the disposition of isoniazid in MATLAB® software (version 8.5.0.197613; The MathWorks, Inc., Natick, MA) by use of the MoBi toolbox for MATLAB (version 6.0.3; Bayer Technology Services GmbH, Leverkusen, Germany).
 
 The model was verified by simulating further clinical studies reporting pharmacokinetic concentration-time profiles after intravenous and oral administration of isoniazid (test datasets).
 

@@ -6,7 +6,7 @@ The parameter values for `Specific intestinal permeability` and `Intestinal Para
 
 The INH fraction unbound (fu) in blood was taken from the literature (see [Section 2.2.1](#invitro-and-physico-chemical-data)).
 
-After testing the available organ-plasma partition coefficient and cell permeability calculation methods built in PK-Sim®, observed clinical data was best described by choosing the partition coefficient calculation by `Schmitt` and cellular permeability calculation by `Charged dependent Schmitt`.
+After testing the available organ-plasma partition coefficient and cell permeability calculation methods built in PK-Sim®, observed clinical data were best described by choosing the partition coefficient calculation by `Schmitt` and cellular permeability calculation by `Charged dependent Schmitt`.
 
 ### Metabolism and Elimination <a id="model-parameters-and-assumptions-metabolism"></a>
 
@@ -16,7 +16,7 @@ Isoniazid is mainly acetylated by NAT2 to acetylisoniazid. Besides the acetylati
 
 Renal clearance was implemented as glomerular filtration for isoniazid ([Ellard 1976, Mitchell 1975](#main-references)).
 
-### Automated Parameter Identification <a id="model-parameters-and-assumptions-identification"></a>
+### Automated Parameter Identification <a id="automated-parameter-identification"></a>
 
 The following parameters have been estimated in the model for isoniazid:
 
